@@ -22,4 +22,5 @@ void libb_happy() {
 void libb_how_are_you() {
   fprintf(stdout, "%s\n", "how are you ? from libb");
 }
+
 /* EOF */
