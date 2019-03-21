@@ -1,0 +1,18 @@
+# project exo-c (0.0.1) configured on Thu Mar 21 14:39:11 2019 by
+# waf 1.6.11 (abi 98, python 2070af0 on darwin)
+# using ./waf configure build
+#
+----------------------------------------
+Setting top to
+/Users/estebanmercier/Desktop/formation-git/waf-c-example
+----------------------------------------
+Setting out to
+/Users/estebanmercier/Desktop/formation-git/waf-c-example/__build__
+----------------------------------------
+Checking for 'gcc' (c compiler)
+find program=['gcc', 'cc'] paths=['/Applications/Firefox.app/Contents/MacOS', '/Applications/pycharm-community-2017.3.2/bin', '/usr/local/opt/openssl/bin', '/Library/Frameworks/Python.framework/Versions/3.6/bin', '/Users/estebanmercier/.cargo/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0@global/bin', '/Users/estebanmercier/.rvm/rubies/ruby-2.4.0/bin', '/Users/estebanmercier/bin', '/usr/local/bin', '/usr/local/bin', '/usr/bin', '/bin', '/usr/sbin', '/sbin', '/usr/local/go/bin', '/opt/X11/bin', '/Applications/Firefox.app/Contents/MacOS', '/Applications/pycharm-community-2017.3.2/bin', '/usr/local/opt/openssl/bin', '/Library/Frameworks/Python.framework/Versions/3.6/bin', '/Users/estebanmercier/.cargo/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0@global/bin', '/Users/estebanmercier/.rvm/rubies/ruby-2.4.0/bin', '/Users/estebanmercier/bin', '/Users/estebanmercier/.rvm/bin'] var='CC' -> '/usr/bin/gcc'
+find program=['ar'] paths=['/Applications/Firefox.app/Contents/MacOS', '/Applications/pycharm-community-2017.3.2/bin', '/usr/local/opt/openssl/bin', '/Library/Frameworks/Python.framework/Versions/3.6/bin', '/Users/estebanmercier/.cargo/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0@global/bin', '/Users/estebanmercier/.rvm/rubies/ruby-2.4.0/bin', '/Users/estebanmercier/bin', '/usr/local/bin', '/usr/local/bin', '/usr/bin', '/bin', '/usr/sbin', '/sbin', '/usr/local/go/bin', '/opt/X11/bin', '/Applications/Firefox.app/Contents/MacOS', '/Applications/pycharm-community-2017.3.2/bin', '/usr/local/opt/openssl/bin', '/Library/Frameworks/Python.framework/Versions/3.6/bin', '/Users/estebanmercier/.cargo/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0/bin', '/Users/estebanmercier/.rvm/gems/ruby-2.4.0@global/bin', '/Users/estebanmercier/.rvm/rubies/ruby-2.4.0/bin', '/Users/estebanmercier/bin', '/Users/estebanmercier/.rvm/bin'] var='AR' -> '/usr/bin/ar'
+/usr/bin/gcc
+(tool compiler_c is already loaded, skipping)
+(tool compiler_c is already loaded, skipping)
+(tool compiler_c is already loaded, skipping)
